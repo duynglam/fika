@@ -1,5 +1,5 @@
 ---
-tag: hot, cafe, hazelnut
+tag: hot, coffee, hazelnut
 title: Hazelnut Latte with Caramel Drizzle
 ---
 

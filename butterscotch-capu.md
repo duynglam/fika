@@ -1,5 +1,5 @@
 ---
-tag: iced, hot, cafe
+tag: iced, hot, coffee
 title: Butterscotch Capu
 ---
 

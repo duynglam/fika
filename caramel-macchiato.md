@@ -1,5 +1,5 @@
 ---
-tag: hot, iced, sweet, cafe
+tag: hot, iced, sweet, coffee
 title: Caramel Macchiato
 ---
 

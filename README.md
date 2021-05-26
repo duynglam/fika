@@ -1,5 +1,6 @@
 # fika
 Customized order for starbucks, or anywhere.
+- most of the drinks are coffee and matcha. these twos are my fav. I'll come up with the tea choices soon.
 - don't mind the title. I came up with it
 - please check with the barista about the adds-on
 	- they might give you a weird look. just stick with your choice

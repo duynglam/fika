@@ -1,5 +1,5 @@
 ---
-tag: cold, cafe
+tag: cold, coffee
 title: Cold Brew Caramel Foam
 ---
 
