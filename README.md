@@ -5,6 +5,6 @@ Customized order for starbucks, or anywhere.
 - please check with the barista about the adds-on
 	- they might give you a weird look. just stick with your choice
 	- adds on like choco/matcha powder usually comes free. I used to order a greentea latte with 5 extra scoops of matcha powder. The only thing I paid in extra is my dignity.
-	- but espresso and syrup shot does. 15.000VND/ espresso shot and 10.000VND/ syrup pump as I remember
+	- but espresso and syrup shot doesn't. 15.000VND/ espresso shot and 10.000VND/ syrup pump as I remember. which is why I put this bullet under the `check with barista`
 
 - the list will be updated through times. stay tuned. 
