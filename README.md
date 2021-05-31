@@ -1,5 +1,7 @@
 # fika
-Customized order for starbucks, or anywhere.
+Customized recipe for starbucks, or anywhere. 
+Espressoly crafted for fika. In coffee, we trust. 
+
 - most of the drinks are coffee and matcha. these twos are my fav. I'll come up with the tea choices soon.
 - don't mind the title. I came up with it
 - please check with the barista about the adds-on
