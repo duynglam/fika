@@ -1,6 +1,7 @@
 # fika
-Customized recipe for starbucks, or anywhere. 
-Espressoly crafted for fika. In coffee, we trust. 
+customized starbies orders & Homemade DIY.
+espressoly crafted for fika. 
+in coffee, we trust. 
 
 - most of the drinks are coffee and matcha. these twos are my fav. I'll come up with the tea choices soon.
 - don't mind the title. I came up with it
@@ -9,4 +10,4 @@ Espressoly crafted for fika. In coffee, we trust.
 	- adds on like choco/matcha powder usually comes free. I used to order a greentea latte with 5 extra scoops of matcha powder. The only thing I paid in extra is my dignity.
 	- but espresso and syrup shot doesn't. 15.000VND/ espresso shot and 10.000VND/ syrup pump as I remember. which is why I put this bullet under the `check with barista`
 
-- the list will be updated through times. stay tuned. 
+the list will be updated through times. stay tuned. 
