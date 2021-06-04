@@ -1,5 +1,5 @@
 # eff why I
-customized starbies orders & Homemade DIY.
+customized starbies orders & homemade DIY.
 espressoly crafted for fika. 
 in coffee, we trust. 
 
